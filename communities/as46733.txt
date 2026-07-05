@@ -1,16 +1,37 @@
-# added by 46733 (support@x6c.co)
-46733:0:12,Learned from upstream
-46733:0:13,Learned from peer
-46733:0:14,Learned from route server
-46733:0:15,Learned from downstream
-46733:10:1,Country: United States
-46733:20:1,Location: Kansas City, MO
-46733:20:2,Location: Fremont, CA
-46733:20:3,Location: Chicago, IL
-46733:30:1,Exchange: KCIX
-46733:30:2,Exchange: HOUIX
-46733:30:3,Exchange: STLIX
-46733:30:4,Exchange: FREMIX
-46733:30:5,Exchange: F4IX
-46733:30:6,Exchange: MICEMN
-46733:666,Blackhole
+# AS46733 (x6cnet) informational BGP communities. Source: https://files.as46733.net/as46733.txt
+46733:1:2,Anycast POP continent: Africa
+46733:1:9,Anycast POP continent: Oceania
+46733:1:19,Anycast POP continent: Americas
+46733:1:142,Anycast POP continent: Asia
+46733:1:150,Anycast POP continent: Europe
+46733:2:ccc,Anycast POP country: $0
+46733:3:5,Anycast POP sub-region: South America
+46733:3:21,Anycast POP sub-region: Northern America
+46733:3:30,Anycast POP sub-region: Eastern Asia
+46733:3:34,Anycast POP sub-region: Southern Asia
+46733:3:35,Anycast POP sub-region: South-eastern Asia
+46733:3:53,Anycast POP sub-region: Australia & New Zealand
+46733:3:145,Anycast POP sub-region: Western Asia
+46733:3:154,Anycast POP sub-region: Northern Europe
+46733:3:155,Anycast POP sub-region: Western Europe
+46733:3:202,Anycast POP sub-region: Sub-Saharan Africa
+46733:9:3,Anycast POP: Chicago (ord)
+46733:9:18,Anycast POP: Indianapolis (ind)
+46733:9:19,Anycast POP: Toronto (tor)
+46733:9:20,Anycast POP: Washington, DC (was)
+46733:9:31,Anycast POP: Frankfurt (fra)
+46733:9:32,Anycast POP: Singapore (sin)
+46733:9:37,Anycast POP: Tel Aviv (tlv)
+46733:9:38,Anycast POP: Fremont, CA (fmt)
+46733:9:40,Anycast POP: Dallas (dfw)
+46733:9:43,Anycast POP: Los Angeles (lax)
+46733:9:44,Anycast POP: Newark, NJ (ewr)
+46733:9:51,Anycast POP: Tokyo (nrt)
+46733:9:52,Anycast POP: London (lhr)
+46733:9:53,Anycast POP: Paris (cdg)
+46733:9:54,Anycast POP: Mumbai (bom)
+46733:9:55,Anycast POP: Sydney (syd)
+46733:9:56,Anycast POP: Sao Paulo (sao)
+46733:9:57,Anycast POP: Johannesburg (jnb)
+46733:9:63,Anycast POP: Toronto (yto)
+46733:9:64,Anycast POP: San Jose, CA (sjc)
